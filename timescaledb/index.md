@@ -6,6 +6,8 @@ tags: [get started, overview, tutorials, learn, contribute, code]
 
 # Welcome to the TimescaleDB documentation!
 
+<policyVisualizer />
+
 TimescaleDB is a time-series database, built on top of PostgreSQL. More than that,
 however, it's a relational database for time-series. Developers who use TimescaleDB
 get the benefit of a purpose-built time-series database, plus a classic relational
